@@ -1,0 +1,33 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: url(/Img/background.jpg) no-repeat center top;
+    background-size: cover;
+    font-family: sans-serif;
+    height: 100vh;
+}
+
+.logIn{
+    width: 320px;
+    height: 420px;
+    background: #fff;
+    color: #000;
+    top: 50%;
+    left: 50%;
+    position:absolute;
+    transform: translate(-50%, -50%);
+    box-sizing: border-box;
+}
+
+.logIn .avatar {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    position: absolute;
+    top: -50px;
+    left: calc(50% - 50px);
+
+
+}
+
+.logIn h
