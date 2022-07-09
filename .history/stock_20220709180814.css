@@ -116,23 +116,6 @@ section{
     }
 
 .btnbuscar{
-    width: 100px;
-    margin-top: 10px;
+    width: 240px;
     height: 40px;
-    border-radius: 30px;
-}
-
-.table {
-    border-radius: 25px;
-    background-color: #fff;
-}
-
-h4{
-    color: red;
-    margin-left: 33%;
-}
-
-.imprimir{
-    text-align: center;
-    margin-left: 50%;
 }

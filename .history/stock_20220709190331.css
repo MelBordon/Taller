@@ -124,15 +124,10 @@ section{
 
 .table {
     border-radius: 25px;
-    background-color: #fff;
+    background-color: ;
 }
 
 h4{
     color: red;
-    margin-left: 33%;
-}
-
-.imprimir{
     text-align: center;
-    margin-left: 50%;
 }

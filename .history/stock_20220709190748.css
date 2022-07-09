@@ -129,10 +129,11 @@ section{
 
 h4{
     color: red;
-    margin-left: 33%;
+    text-align: center;
 }
 
 .imprimir{
+    position: fixed;
+    width: 6cm;
     text-align: center;
-    margin-left: 50%;
 }

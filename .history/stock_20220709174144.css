@@ -101,9 +101,6 @@ section{
         position: absolute;
         padding: 25px;
 
-    }
-    
-
 .buscar input{
         width: 240px;
         height: 40px;
@@ -114,25 +111,3 @@ section{
         border: 1px solid silver;
         border-radius: 30px;
     }
-
-.btnbuscar{
-    width: 100px;
-    margin-top: 10px;
-    height: 40px;
-    border-radius: 30px;
-}
-
-.table {
-    border-radius: 25px;
-    background-color: #fff;
-}
-
-h4{
-    color: red;
-    margin-left: 33%;
-}
-
-.imprimir{
-    text-align: center;
-    margin-left: 50%;
-}

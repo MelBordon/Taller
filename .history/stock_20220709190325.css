@@ -123,16 +123,11 @@ section{
 }
 
 .table {
-    border-radius: 25px;
-    background-color: #fff;
+    border-
+    radius: 25px;
 }
 
 h4{
     color: red;
-    margin-left: 33%;
-}
-
-.imprimir{
     text-align: center;
-    margin-left: 50%;
 }
